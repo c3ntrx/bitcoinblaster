@@ -24,7 +24,7 @@
    \ \____//\____\ \__/.\_\/\____/ \ \__\ \____\\ \_\ 
     \/___/ \/____/\/__/\/_/\/___/   \/__/\/____/ \/_/ 
                                                       
-<-- c3ntrx || w5dx || leadpro --> 2023
+         <-- c3ntrx || w5dx || leadpro --> 2023
 
 This code is made for stress testing any blockchain sharing Bitcoin codebase.
 In the instance shown it is using Globalboost since it is rather inexpensive
