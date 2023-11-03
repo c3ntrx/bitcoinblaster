@@ -16,7 +16,7 @@ This code is made for stress testing any blockchain sharing Bitcoin codebase.
 In the instance shown it is using Globalboost since it is rather inexpensive
 at the moment.
 
-The only limits I have found is not haveing enought unspent UTXO inputs.
+The only limits I have found is not having enought unspent UTXO inputs.
 I suggest sending alot of small transactions to the wallet you are to use.
 
 You can adjust several variables, time intervals, amount to send at once, 
